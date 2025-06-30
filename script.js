@@ -23,7 +23,7 @@ const quizData = [
   },
   {
     question: "Which HTML tag is used to define an internal JavaScript logic?",
-    options: ["<style>", "<script> with <src>", "<link>", "<css> <script>"],
+    options: ["<style>", "<script> with <src>", "<link>", "<css>", "<script>"],
     answer: "<script>"
   },
   {
