@@ -1,7 +1,1 @@
-# new-signup-html-js
-# new-signup-html-js
-# new-signup-html-js
-# new-html-js-pages
-# new-html-js-pages
-# quiz-app
-# quiz-app
+visit https://bhavy0309.github.io/quiz-app/howtomake.md this to see the readme
